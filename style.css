@@ -194,7 +194,7 @@ button:hover {
   border-left: 4px solid #ef4444;
   background: #fff7f7;
   margin-bottom: .5rem;
-  color: var(--fg);
+  color: black;
 }
 
 footer {
@@ -211,4 +211,5 @@ footer {
 }
 #forecast-form input[type="range"] {
   scale: 1.2;
+
 }
